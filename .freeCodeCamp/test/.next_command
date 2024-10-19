@@ -81,3 +81,6 @@ psql --username=freecodecamp --dbname=postgres
 echo ".freeCodeCamp/" >> .gitignore
 git add .gitignore
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git commit -m "Update freeCodeCamp test files"
+\ls
+git add .
